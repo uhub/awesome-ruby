@@ -1315,3 +1315,4 @@ A curated list of awesome Ruby frameworks, libraries and software.
 * [ahoward/map](https://github.com/ahoward/map) - the ruby container you've always wanted: an ordered string/symbol indifferent hash
 * [intercom/intercom-ruby](https://github.com/intercom/intercom-ruby) - Ruby bindings for the Intercom API
 * [adomokos/DesignPatterns-Ruby](https://github.com/adomokos/DesignPatterns-Ruby) - Design Patterns in Ruby - Code samples based on the book with the same title
+* [BetterDocs](https://github/khusnetdinov/betterdocs) - Documentation with collection practices in ruby. Good for new ruby developers and beginners.
