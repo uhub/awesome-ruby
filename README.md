@@ -2,6 +2,7 @@
 
 A curated list of awesome Ruby frameworks, libraries and software.
 
+* [Explore Ruby Libraries](https://kandi.openweaver.com/explore/ruby) - Discover & find a curated list of popular & new ruby libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 * [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 * [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 * [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
